@@ -1,0 +1,29 @@
+{
+  "name": "ficheros",
+  "version": "1.0.0",
+  "description": "Control de inventario en unidades extraibles",
+  "main": "index.js",
+  "dependencies": {
+    "fs": "0.0.2",
+    "path": "^0.12.7",
+    "walk": "^2.3.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Christian Eduardo Nicolau",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chris-eduardo/ficheros.git"
+  },
+  "keywords": [
+    "USB",
+    "inventario"
+  ],
+  "bugs": {
+    "url": "https://github.com/chris-eduardo/ficheros/issues"
+  },
+  "homepage": "https://github.com/chris-eduardo/ficheros#readme"
+}
